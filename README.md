@@ -4,7 +4,9 @@ An android application that helps connect weak students to strong students in ac
 ## How to download and install
 ### Softwares needed:
 1. You will need to have Wamp Server or Xampp Server installed on your system. 
-2). You will need Android Studio and a phone emulator to run the application.
+2. You will need Android Studio and a phone emulator to run the application.
+
+## Steps to perform
 - Download "Students Learning Network" and unzip.
 1. Turn on Wamp or Xampp Server.
 2. Import the "students_network" database in your localhost.
